@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "com.coverup.mapsdk": "https://github.com/cover-up/map-sdk.git#v0.2.0",
+    "com.unity.render-pipelines.universal": "17.5.0",
+    "com.unity.ugui": "2.5.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0"
+  }
+}

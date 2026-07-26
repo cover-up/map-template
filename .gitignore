@@ -1,0 +1,20 @@
+# Unity project .gitignore for a map-authoring project cloned from this template.
+# Only Packages/manifest.json and ProjectSettings/ProjectVersion.txt are tracked;
+# Unity regenerates everything else on first open.
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Packages/packages-lock.json
+
+# Exported map packages (they live in ~/Documents/CoverUpMaps by default, but if a
+# mapper points localmaps.txt back into the project, don't commit the built bundles)
+/Workshop/
+
+.DS_Store
+Thumbs.db

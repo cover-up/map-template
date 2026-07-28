@@ -37,6 +37,12 @@ fully pre-generated Unity project — open it once in Unity 6000.5 and the edito
   into `Assets/Maps/Scenes/`, with `MapConfig`, `MapSizeVariants`, `WorkshopMapInfo`, spawn, bounds,
   lighting and materials already wired. Start by editing that rather than assembling the contract by
   hand.
+- **Build inside `Base/Content`.** A map scene is `_CoverUpMap → Base → {Fixtures, Content}`
+  (plus `Sizes` for the size variants). `Fixtures` holds the few objects the map can't lose —
+  the spawn disc and the sun — and `Content` holds everything you author. The split is
+  enforced: `Validate Map` errors on a missing group or on anything left loose under `Base`.
+  Have a scene that isn't in this shape? **Cover Up! → Maps → Group Base** sorts it out in one
+  pass without deleting anything.
 - Give it its own identity on the `WorkshopMapInfo` component (**Map Id**, **Title**, **Preview**).
   A preview is required to publish, and the in-game browser draws it **full-width as the entire map
   card** — aim for ≈1280×720, 16:9, under 1 MB.

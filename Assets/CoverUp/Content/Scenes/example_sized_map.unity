@@ -230,7 +230,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2fde945216756ef29e3aed827ef7b71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapConfig
-  playerScale: 1.185
+  hiderScale: 1.185
+  hunterScale: 1.185
 --- !u!4 &121352046
 Transform:
   m_ObjectHideFlags: 0

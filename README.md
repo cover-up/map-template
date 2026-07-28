@@ -48,8 +48,9 @@ fully pre-generated Unity project — open it once in Unity 6000.5 and the edito
   card** — aim for ≈1280×720, 16:9, under 1 MB.
 - **Cover Up! → Maps → Validate Map** checks the scene against the map contract; then
   **Export Workshop Map** builds the package.
-- Exports land in your local maps folder (`~/Documents/CoverUpMaps/<mapId>/`), which the installed
-  game reads in **Sandbox** for live testing.
+- Exports land in your local maps folder (`~/CoverUpMaps/<mapId>/` on Linux/macOS,
+  `Documents\CoverUpMaps\<mapId>\` on Windows), which the installed game reads in **Sandbox** for
+  live testing.
 
 ## What a map may contain
 

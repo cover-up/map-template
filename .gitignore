@@ -1,5 +1,7 @@
 # Unity project .gitignore for a map-authoring project cloned from this template.
-# Only Packages/manifest.json and ProjectSettings/ProjectVersion.txt are tracked;
+# Tracked: Packages/manifest.json, the ProjectSettings Unity can't regenerate correctly
+# (ProjectVersion + the render-pipeline wiring), and Assets/Settings (the URP assets the
+# template ships so maps are authored against the same pipeline the game renders with).
 # Unity regenerates everything else on first open.
 
 [Ll]ibrary/

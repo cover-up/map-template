@@ -160,7 +160,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 100656061}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2a70e5dab5ad95e8715bc89b21e6db4, type: 3}
+  m_Script: {fileID: 11500000, guid: c9f84e4a822836cd29903afbfdb2974b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapBoundsVolume
 --- !u!1 &121352042
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 121352042}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0170c9f7f58f844628832a277bd4d98a, type: 3}
+  m_Script: {fileID: 11500000, guid: 3966b17a2935bb7f0b93dc2b6f9b505c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.WorkshopMapInfo
   mapId: example_sized_map
@@ -211,7 +211,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 121352042}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb5009cd5f65cdf5787e12251ac81a2e, type: 3}
+  m_Script: {fileID: 11500000, guid: e264b7da37aba6d6caa7042ad90a505d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapSizeVariants
   small: {fileID: 1266942142}
@@ -229,7 +229,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 121352042}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2fde945216756ef29e3aed827ef7b71, type: 3}
+  m_Script: {fileID: 11500000, guid: 3aac16435cc73d4f49619935b68e3ce2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapConfig
   hiderScale: 1.185
@@ -295,7 +295,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 290275505}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &290275508
@@ -420,7 +420,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 445791645}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &445791648
@@ -542,7 +542,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 559567052}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2a70e5dab5ad95e8715bc89b21e6db4, type: 3}
+  m_Script: {fileID: 11500000, guid: c9f84e4a822836cd29903afbfdb2974b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapBoundsVolume
 --- !u!1 &617071444
@@ -622,7 +622,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 796344209}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &796344212
@@ -811,7 +811,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1191803007}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 10e812df2e353de0f7e12819e2c984ca, type: 3}
+  m_Script: {fileID: 11500000, guid: 526c832a33949ba9297df8b36399673c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapSpawnDisc
   radius: 2.5
@@ -889,7 +889,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1298106255}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2a70e5dab5ad95e8715bc89b21e6db4, type: 3}
+  m_Script: {fileID: 11500000, guid: c9f84e4a822836cd29903afbfdb2974b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapBoundsVolume
 --- !u!1 &1546221640
@@ -1007,7 +1007,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1601456323}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &1601456326
@@ -1132,7 +1132,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1608862871}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &1608862874
@@ -1257,7 +1257,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1734171740}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &1734171743
@@ -1382,7 +1382,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1740504457}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &1740504460
@@ -1636,7 +1636,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1975719199}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &1975719202
@@ -1761,7 +1761,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1985740014}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &1985740017
@@ -1886,7 +1886,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1994487421}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &1994487424
@@ -2044,7 +2044,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2098921088}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a362be2692eb6d7a94fa418ea4cda3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6115af5fec69944358b197bad1c01b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.CamouflageSurface
 --- !u!23 &2098921091

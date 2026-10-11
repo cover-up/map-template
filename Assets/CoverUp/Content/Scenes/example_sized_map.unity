@@ -214,12 +214,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e264b7da37aba6d6caa7042ad90a505d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: CoverUp.MapSdk::CoverUp.Gameplay.MapSizeVariants
-  small: {fileID: 1266942142}
-  medium: {fileID: 942402375}
-  large: {fileID: 1756548705}
-  soloWalkSize: 1
-  smallMaxPlayers: 10
-  mediumMaxPlayers: 22
+  tiny:
+    root: {fileID: 0}
+    maxPlayers: 5
+  small:
+    root: {fileID: 1266942142}
+    maxPlayers: 10
+  medium:
+    root: {fileID: 942402375}
+    maxPlayers: 22
+  large:
+    root: {fileID: 1756548705}
+    maxPlayers: 40
+  huge:
+    root: {fileID: 0}
+    maxPlayers: 64
+  soloWalkSize: 2
 --- !u!114 &121352045
 MonoBehaviour:
   m_ObjectHideFlags: 0

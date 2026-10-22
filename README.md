@@ -33,10 +33,15 @@ fully pre-generated Unity project — open it once in Unity 6000.5 and the edito
 
 ## Author a map
 
-- **Cover Up! → Maps → Create Example Sized Map** — drops a complete, working `_CoverUpMap` scene
-  into `Assets/Maps/Scenes/`, with `MapConfig`, `MapSizeVariants`, `WorkshopMapInfo`, spawn, bounds,
-  lighting and materials already wired. Start by editing that rather than assembling the contract by
-  hand.
+- **Open `Assets/Maps/Scenes/starter_island.unity`.** Every map is an island: the game draws one
+  endless sea at the scene's Y 0, the same sea the lobby island stands in 850 m away, and what you
+  build rises from it (players see your island on the lobby's horizon between rounds). The starter
+  is a complete, working `_CoverUpMap`: sand rising from the shallows the way the lobby island does,
+  the bounds drawn as outlines in knee-deep water, spawns, the arena sun, the island sky, Tiny and
+  Small built, one open-sided shed. Build on it or replace the land; keep floors above Y 0, or draw
+  a `MapSeaHole` over a dry one (a cave, a basement). Want a fresh copy? **Cover Up! → Maps → Create
+  Starter Island** regenerates it (delete the scene first). The old indoor corridor example is still
+  under **Create Example Sized Map (legacy)**.
 - **Build inside `Base/Content`.** A map scene is `_CoverUpMap → Base → {Fixtures, Content}`
   (plus `Sizes` for the size variants). `Fixtures` holds the few objects the map can't lose —
   the spawn disc and the sun — and `Content` holds everything you author. The split is

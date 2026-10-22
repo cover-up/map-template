@@ -34,7 +34,7 @@ fully pre-generated Unity project — open it once in Unity 6000.5 and the edito
 ## Author a map
 
 - **Open `Assets/Maps/Scenes/starter_island.unity`.** Every map is an island: the game draws one
-  endless sea at the scene's Y 0, the same sea the lobby island stands in 850 m away, and what you
+  endless sea at the scene's Y 0, the same sea the lobby island stands in 600 m away, and what you
   build rises from it (players see your island on the lobby's horizon between rounds). The starter
   is a complete, working `_CoverUpMap`: sand rising from the shallows the way the lobby island does,
   the bounds drawn as outlines in knee-deep water, spawns, the arena sun, the island sky, Tiny and
